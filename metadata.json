@@ -1,0 +1,6 @@
+{
+  "name": "iTrip Déménagement",
+  "description": "Leader du déménagement pour particuliers et entreprises à Casablanca et partout au Maroc. Déménagement, emballage, démontage, garde-meubles et transport sécurisé.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
